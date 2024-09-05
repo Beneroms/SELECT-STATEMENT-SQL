@@ -1,2 +1,1 @@
-# SELECT-STATEMENT-SQL
-SELECT STATEMENT SQL
+# Select Statement Query in SQL
